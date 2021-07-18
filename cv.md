@@ -6,7 +6,7 @@ Russia, St.Petersburg
 Tel.: +7 921 560 77 56    Email: ekaterinastom@gmail.ru
 ***
 ## About:
->_Hello! My name is Ekaterina and I am a future front-end developer. Now I work in a completely different industry - I manage two dental clinics in St. Petersburg. I've been doing this for 10 years. And now I am ready to change the direction of my professional activity so now I am learning to code at RS-school all my free time._ 
+>_Hello! My name is Ekaterina and I am a future front-end developer. Now I work in a completely different industry - I manage two dental clinics in St. Petersburg. I've been doing this for 10 years. And now I am ready to change the direction of my professional activity so now I am learning to code at RS-school all my free time. I plan to apply all my manager skills such as focus on result, self-education, the ability to find solutions in non-standard situations, teamwork and time management. All of these will help me achieve my goal of becoming a developer. And I hope I can empower your team._ 
 
 ## Hard skills:
 
@@ -42,7 +42,19 @@ Tel.: +7 921 560 77 56    Email: ekaterinastom@gmail.ru
 ```
 ## Work experience:
 ### Managing director/Сenter of dentistry and cosmetology PALKIN
-(May 2009 - Now)
+(May 2010 - Now)
 ### Nurse/ Different medical clinics
-(June 2007 - April 2009)
+(June 2008 - April 2009)
 
+## Education:
+
+### International management institute IMISP, St.Petersburg| FINANCIAL ANALITICS
+(2018)
+### The Herzen State Pedagogical University of Russia, St.Petersburg| SPEECH THERAPIST
+(2010-2014)
+### Medical college, St.Petersburg| NURSE
+(2007-2010)
+
+## Language:
+English - B1 
+(Language practice in "Don't speak" School - open speech lessons)
