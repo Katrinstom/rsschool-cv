@@ -15,3 +15,25 @@ Hello! My name is Ekaterina and I am a future front-end developer. Now I work in
 * Coordination of the work of medical and administrative departments
 * Staff manangement of more than 60 employees and maintaining teamwork
 * Marketing campaign development
+
+### Soft skills:
+
+* Able to build highly motivated teams
+* In-depth knowledge of medical (stomatology)
+* Ability to work efficiently both individually and in a team
+* Communicative skills/Social skills
+* Strategic and analytical thinking
+* Time management skills 
+* Willingness to learn
+* Self-motivated
+
+### Code:
+
+<html>
+<head>
+<title>Nice to meet you, friends call me Katrin.</title>
+</head>
+<body>
+<p><img src="CUK_7RWsUqM.jpg" width=«300» height=«400» alt="me and dog"></p>
+</body>
+</html>
