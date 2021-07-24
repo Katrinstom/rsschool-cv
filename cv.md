@@ -3,8 +3,7 @@
 ## Contacts:
 Russia, St.Petersburg      
 
-Tel.: +7 921 560 77 56    Email: ekaterinastom@gmail.ru
-***
+Tel.: +7 921 000 00 00    Email: ekaterinastom@gmail.ru
 ## About:
 >_Hello! My name is Ekaterina and I am a future front-end developer. Now I work in a completely different industry - I manage two dental clinics in St. Petersburg. I've been doing this for 10 years. And now I am ready to change the direction of my professional activity so now I am learning to code at RS-school all my free time. I plan to apply all my manager skills such as focus on result, self-education, the ability to find solutions in non-standard situations, teamwork and time management. All of these will help me achieve my goal of becoming a developer. And I hope I can empower your team._ 
 
@@ -30,7 +29,8 @@ Tel.: +7 921 560 77 56    Email: ekaterinastom@gmail.ru
 
 ## Code:
 
-``` <html>
+``` 
+<html>
 <head>
 <title>Nice to meet you, friends call me Katrin.</title>
 </head>
