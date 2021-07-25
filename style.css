@@ -115,7 +115,7 @@ hr {
 }
 .line {
     border-left: solid 3px #f9dc98;
-    height: 655px;
+    height: 630px;
     position: absolute;
     left: 50%;
 }
@@ -124,4 +124,11 @@ li a {
 }
 footer a {
     color: darkslategray;  
+}
+.footer {
+    width: 800px;
+    height: auto;
+    background-color: #f9dc98;
+    margin: 0;
+    padding: 10px;
 }
