@@ -1,11 +1,6 @@
 html {
     scroll-behavior: smooth;
 }
-body {
-    min-height: 100vh;
-    margin: 0;
-    padding: 0;
-}
 .section {
     max-width: 1280px;
     margin: 0 auto;
@@ -17,10 +12,10 @@ main {
 .bigblock {
     height: auto;
     background-color: #f9dc98;
-    padding-bottom: 10px;
+    padding: 10px;
 }
 .nav {
-    background-color: #78c2f2;
+    background-color: ;
 }
 .navlist {
     display: flex;
@@ -28,18 +23,14 @@ main {
     align-items: center;
     padding: 0;
     margin: 0;
+    background-color: ##85dcff;
+    ;
 }
 .nav-item {
     list-style: none;
 }
-.nav-item a {
-    text-decoration: none;
-    color: #f9dc98;
-    font-weight: 600;
-}
 .nav-item a:hover {
-    background-color:darkslategray;
-    transition: 0.5s;
+    background-color: aqua;
 }
 body {
     font-family: 'Quicksand', sans-serif;
@@ -59,7 +50,7 @@ h2 {
     text-align: left;
     font-family:'Quicksand', sans-serif;
     font-size: 30px;
-    color:#78c2f2;
+    color:darkgrey;
     margin: 0;
 }
 h3 {
@@ -93,9 +84,6 @@ li {
     margin: 0;
     padding: 5px 5px 5px;
 }
-#newskill {
-    color: red;
-}
 .about {
     border-bottom: solid 3px #f9dc98;
 }
@@ -104,7 +92,7 @@ li {
     color: darkslategray;
     font-family: 'Quicksand', sans-serif;
     font-style: italic;
-    margin-bottom: 20px;
+    margin: 0;
     height: auto;
     width: auto;
     padding: 5px 40px 5px;
@@ -114,11 +102,10 @@ li {
 .english {
     text-align: left;
     color: darkslategray;
-    margin-bottom: 20px;
+    margin: 0;
     height: auto;
     width: auto;
     padding: 0;
-    width: 50%;
 }
 .conteiner {
     display: flex;
@@ -138,7 +125,7 @@ li {
     text-align: left;
     color: darkslategray;
     font-family: 'Quicksand', sans-serif;
-    margin-bottom: 20px;
+    margin: 0;
     height: auto;
     width: 50%;
     padding: 0;
@@ -159,19 +146,10 @@ p, b {
     padding: 5px 40px 5px;
     line-height: 1.5;
 }
-pre {
-    margin: 0;
-}
 .code {
     text-align: left;
     background-color: gainsboro;
     display: block;
-    font-size: 16px;
-    font-weight: 600;
-}
-.block2 {
-    display: flex;
-    flex-direction: row;
 }
 .flexcont {
     display: flex;
@@ -182,7 +160,7 @@ pre {
 a {
     display: block;
 }
-li a, p a {
+li a {
     color: darkslategray;
 }
 footer a {
