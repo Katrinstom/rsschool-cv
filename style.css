@@ -150,6 +150,8 @@ li {
     border-radius: 50%;
     float: right;
     padding: 40px 115px;
+    width: 250px;
+    height: 250px;
 }
 p, b {
     display: block;
@@ -199,4 +201,12 @@ footer a {
 .footer {
     height: auto;
     background-color: #f9dc98;
+}
+.flexcont__rss {
+    width: 100px;
+    height: 40px;
+}
+.flexcont__gh {
+    width: 20px;
+    height: 20px;
 }
